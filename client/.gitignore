@@ -22,11 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-flake.nix
-flake.lock
-<<<<<<< HEAD
-__pycache__/
-__pycache__.py
-=======
-__pycache__
->>>>>>> 94af8c78d841e33a34fe8ab9ca25053230d43538
