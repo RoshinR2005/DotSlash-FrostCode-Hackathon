@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 flake.nix
 flake.lock
+__pycache__/
+__pycache__.py
